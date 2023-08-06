@@ -44,7 +44,7 @@ Au lieu de lutter contre le système d'exploitation, il serait préférable de l
 Comment ouvrir une console de commande ?
 ****************************************
 
-La console de commande est un programme comme un autre qui se nomme ``cmd.exe``. Il faut donc cliquer sur le bouton Windows et en tapant les lettres :guilabel:`cmd`, Windows nous propose d'ouvrir la console de commande.
+La console de commande est un programme comme un autre qui se nomme ``cmd.exe``. Il faut donc cliquer sur le bouton Windows et en tapant les lettres :guilabel:`cmd`, Windows nous propose d'ouvrir la console de commande. (On peut aussi taper les lettres :guilabel:`cmd` directement dans la barre d'adresse du dossier où se trouve le script. Ceci permet d'ouvrir une console directement à l'emplacement du script.)
 
 On est accueilli par une console au fond noir. On peut configurer quelques propriétés utiles. Pour ce faire, il faut cliquer sur l'icône au haut à gauche de la barre de titre de notre console.
 
